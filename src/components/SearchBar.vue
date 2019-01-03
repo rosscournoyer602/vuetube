@@ -16,5 +16,11 @@
 </script>
 
 <style scoped>
-
+  div {
+    text-align: center;
+    margin: 20px;
+  }
+  input {
+    width: 75%;
+  }
 </style>
